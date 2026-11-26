@@ -1,3 +1,3 @@
 If you want to use this application click on the link below
 
-https://machine-learning-project-3axdptnntmdakwctguwkz7.streamlit.app/
+https://telecom-customer-churn-ml-project-x9cirrnwzkfbf9frdmugtv.streamlit.app/
